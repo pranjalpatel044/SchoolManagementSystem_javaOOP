@@ -15,17 +15,8 @@ A **Java-based School Management System** built to demonstrate **core Object-Ori
 ---
 
 ## 📂 Project Structure
-SchoolManagementSystem/
-│── src/
-│ ├── Person.java # Abstract class (base for Student & Teacher)
-│ ├── Student.java # Inherits Person
-│ ├── Teacher.java # Inherits Person, implements Payable
-│ ├── Payable.java # Interface for salary system
-│ ├── Course.java # Course with students & teacher (Composition)
-│ ├── School.java # Manages people & courses (Composition)
-│ └── SchoolManagementSystem.java # Main runner class
-│
-└── README.md # Project documentation
+![Project Structure](./Project_Structure.png)
+
 
 ---
 
@@ -35,3 +26,4 @@ SchoolManagementSystem/
 - **Collections Framework** (ArrayList for managing objects)  
 
 ---
+
